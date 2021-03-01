@@ -1,5 +1,6 @@
-
-
+#tab complete for reverse shell
+background process: ctrl + z
+stty raw -echo
 
 ## SSH Tunneling 101
 ```bash
